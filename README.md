@@ -10,3 +10,7 @@ Add WooCommerce Composite Product support to your WPGraphQL schema.
 -   WooGraphQL +0.8.0
 -   WooCommerce +4.7.0
 -   WooCommerce Composite Products +8.0.0
+
+## Notes
+
+-   WIP
