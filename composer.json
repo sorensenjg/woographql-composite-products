@@ -4,7 +4,8 @@
     "type": "wordpress-plugin",
     "authors": [
         {
-            "name": "Justin Sorensen"
+            "name": "Justin Sorensen",
+            "email": "hey@sorensenjg.com"
         }
     ],
     "license": "GPL-3.0-or-later",
